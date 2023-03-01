@@ -15,7 +15,8 @@ dependencies:
   path_provider: ^2.0.12
   tflite_flutter:
     git:
-      url: git://github.com/beyondmedicine/tflite_flutter_plugin.git
+      url: https://github.com/JaeHeee/tflite_flutter_plugin.git
+      ref: feature/xnnpack_delegate
   tuple: ^2.0.1
   camera: ^0.10.3
   ffi: ^2.0.1
