@@ -15,7 +15,7 @@ dependencies:
   path_provider: ^2.0.12
   tflite_flutter:
     git:
-      url: https://github.com/GetMove-fit/tflite_flutter_plugin.git
+      url: https://github.com/beyondmedicine/tflite_flutter_plugin.git
   tuple: ^2.0.1
   camera: ^0.10.3
   ffi: ^2.0.1
